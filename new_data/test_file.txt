@@ -1,0 +1,10 @@
+a snake
+
+a lake
+a house
+
+fire
+snow
+
+thunder
+wind

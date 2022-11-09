@@ -1,0 +1,17 @@
+a snake
+REMOVE_THIS
+a lake
+a house
+REMOVE_THIS
+fire
+snow
+REMOVE_THIS
+thunder
+wind
+
+
+a snake
+a lake
+a house
+fire
+snow
